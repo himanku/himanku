@@ -1,6 +1,6 @@
  ### Hey there, I'm Himanku Gogoi 👋    
  <h2 align = "center">About Me</h2>
-<h3 align = "center"> I am a highly determined, passionate and an enthusiastic Full Stack Developer. Looking forward to working in a challenging and motivating environment, strengthening my current skillset and learn new technologies.</h3>
+<h3 align = "center"> I am a highly determined, passionate and an enthusiastic Full Stack Developer. Looking forward to working in a challenging and motivating environment, strengthening my current skillset and learning new technologies.</h3>
 <br>
 <a href="portfolio">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio-himanku" />
