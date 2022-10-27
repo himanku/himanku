@@ -1,4 +1,4 @@
- ### Hey there, I'm Himanku Gogoi 👋    
+ ### Hey there 👋, I'm Himanku Gogoi, an aspiring Full Stack Web Developer and a Lifelong Learner!  
  <h2 align = "center">About Me</h2>
 <h3 align = "center"> I am a highly determined, passionate and an enthusiastic Full Stack Developer. Looking forward to working in a challenging and motivating environment, strengthening my current skillset and learning new technologies.</h3>
 <br>
@@ -16,7 +16,6 @@
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="hazecom" /></p>
 
-## I'm an aspiring Full Stack Web Developer and a Lifelong Learner!
 - 🌱 I’m currently Learning MERN Stack at Masai School. 
 
 - 🌏 Looking to solve real-world problems.  
