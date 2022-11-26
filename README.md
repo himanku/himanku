@@ -3,7 +3,7 @@
 <h3 align = "center"> I am a highly determined, passionate and an enthusiastic Full Stack Developer. Looking forward to working in a challenging and motivating environment, strengthening my current skillset and learning new technologies.</h3>
 <br>
 <a href="portfolio">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio-himanku" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio-himanku1" />
 </a>
 <a title="himankugogoi5@gmail.com" href="mailto:himankugogoi5@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="himankugogoi5@gmail.com" />
