@@ -2,7 +2,7 @@
  <h2 align = "center">About Me</h2>
 <h3 align = "center"> I am a highly determined, passionate and an enthusiastic Full Stack Developer. Looking forward to working in a challenging and motivating environment, strengthening my current skillset and learning new technologies.</h3>
 <br>
-<a href="himanku.github.io">
+<a href="https://himanku.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio-himanku1" />
 </a>
 <a title="himankugogoi5@gmail.com" href="mailto:himankugogoi5@gmail.com">
