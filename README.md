@@ -38,10 +38,10 @@
 </a>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/adarsh-gupta-b66806222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-gupta-b66806222" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarsh474747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh474747" height="30" width="45" /></a>
- <a href="https://www.leetcode.com/adarsh973" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="adarsh973" height="25" width="35" /></a>
- <a href="https://www.leetcode.com/adarsh973" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/640px-WhatsApp_icon.png" alt="adarsh973" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/himankugogoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanku" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanku" height="30" width="45" /></a>
+ <a href="https:/gmail" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail-himanku" height="25" width="35" /></a>
+ <a href="https://whatsapp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/640px-WhatsApp_icon.png" alt="adarsh973" height="35" width="40" /></a>
 </p>
 
 <h2><i>Languages & Tools</i></h2>
