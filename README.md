@@ -80,9 +80,9 @@
 ---
 
 ### Desktop Environment:
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
+<code><img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"></code>
 
 ---
 
