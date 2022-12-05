@@ -5,9 +5,9 @@
 
 ---
 <br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="hazecom" /></p>
+<p><img align="right" width="40%" src="https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif" alt="hazecom" /></p>
 
-- 🌱 I’m currently Learning MERN Stack at Masai School. 
+- 🌱 I’m currently learning MERN stack at Masai School. 
 
 - 🌏 Looking to solve real-world problems.  
 - 💻 I'm passionate about making creative websites.    
@@ -32,14 +32,14 @@
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
-<h2 align="left">Check out my Portfolio</h2>
+<h2 align="left">Check out my Portfolio 👇</h2>
 <a href="https://himanku.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio-himanku1" />
 </a>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/himankugogoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanku" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanku" height="30" width="45" /></a>
+<a href="https://linkedin.com/in/himankugogoi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="himanku" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="himanku" height="50" width="45" /></a>
  <a href="https:/gmail" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail-himanku" height="25" width="35" /></a>
  <a href="https://whatsapp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/640px-WhatsApp_icon.png" alt="adarsh973" height="35" width="40" /></a>
 </p>
