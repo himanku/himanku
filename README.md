@@ -8,7 +8,6 @@
 <p><img align="right" width="40%" src="https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif" alt="hazecom" /></p>
 
 - 🌱 I’m currently learning MERN stack at Masai School. 
-
 - 🌏 Looking to solve real-world problems.  
 - 💻 I'm passionate about making creative websites.    
 - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Express, Chakra Ui.  
