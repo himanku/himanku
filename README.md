@@ -89,17 +89,16 @@
 <h3>Statistical Data</h3>
  <hr width="25%">  
 </div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=himanku&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&count_private=true&random=&randomss524279" alt="himanku" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=himanku&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&count_private=true" alt="himanku" />
 </p>
 
 <br>   
 
 <p align = "center" ><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=himanku&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&random=&randomss524279"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=himanku&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="himanku" 
     bg_color=#808080/>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
