@@ -1,11 +1,11 @@
- ### Hey there 👋, I'm Himanku Gogoi, an aspiring Full Stack Web Developer and a Lifelong Learner!  
- <h2 align = "center">About Me</h2>
-<h3 align = "center"> I am a highly determined, passionate and an enthusiastic Full Stack Developer. Looking forward to working in a challenging and motivating environment, strengthening my current skillset and learning new technologies.</h3>
+  <h2 align = "center"><b>About Me</b></h2>
+  
+ ### Hey there 👋, I'm Himanku Gogoi, an aspiring Full Stack Web Developer and a life-long learner. I am highly determined, passionate and enthusiastic about Web Development. Looking forward to be working in a challenging and motivating environment, strengthening my current skillset and learning new technologies.
 <br>
 
 ---
 <br>
-<p><img align="right" width="40%" src="https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif" alt="hazecom" /></p>
+<p><img align="right" width="40%" src="https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif" alt="himanku" /></p>
 
 - 🌱 I’m currently learning MERN stack at Masai School. 
 - 🌏 Looking to solve real-world problems.  
@@ -14,7 +14,7 @@
 - ⚡ Fun Fact: I love travelling and learning about different cultures.
 <br>
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love networking with people</b> so if you want to say <b>hi, I'll be happy to connect with you</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love networking with people</b> so if you want to drop a <b>Hi!, I'll be happy to connect with you</b> :blush:</em>
 
 ---
 
