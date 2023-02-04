@@ -11,7 +11,7 @@
 - 🌏 Looking to solve real-world problems.  
 - 💻 I'm passionate about making creative websites.    
 - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Express, Chakra Ui.  
-- ⚡ Fun Fact: I love travelling and learning about different cultures.
+- ⚡ Fun Fact: I love bartending, travelling and learning about different cultures.
 <br>
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love networking with people</b> so if you want to drop a <b>Hi!, I'll be happy to connect with you </b> :blush:</em>
