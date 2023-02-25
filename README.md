@@ -10,11 +10,11 @@
 - 🌱 I’m currently learning MERN stack at Masai School. 
 - 🌏 Looking to solve real-world problems.  
 - 💻 I'm passionate about making creative websites.    
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Express, Chakra Ui.  
+- 💬 Ask me about JavaScript, HTML, CSS, React, Redux, NodeJS, Express, MongoDB and Chakra UI.  
 - ⚡ Fun Fact: I love bartending, travelling and learning about different cultures.
 <br>
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love networking with people</b> so if you want to drop a <b>Hi!, I'll be happy to connect with you </b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love networking with people</b> so if you want to connect, drop a <b>Hi!, through my portfolio or email. I'll be happy to connect</b> :blush:</em>
 
 ---
 
