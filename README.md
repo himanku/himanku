@@ -1,4 +1,4 @@
-  <h2 align = "center"><b>About Me</b></h2>
+  <h2 align = "center"><b>About Me </b></h2>
   
  ### Hey there 👋, I'm Himanku Gogoi, an aspiring Full Stack Web Developer and a life-long learner. I am highly determined, passionate and enthusiastic about Web Development. Looking forward to be working in a challenging and motivating environment, strengthening my current skillset and learning new technologies.
 <br>
