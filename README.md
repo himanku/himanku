@@ -23,7 +23,7 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/himanku">
+    <a href="https://github.com/himanku" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=himanku&label=Profile%20views&color=0e75b6&style=flat" alt="himanku-gogoi" />
     </a>
 </p>
@@ -32,13 +32,13 @@
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="left">Check out my Portfolio 👇</h2>
-<a href="https://himanku.github.io/">
+<a href="https://himanku.github.io/"  target="_blank">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio-himanku1" />
 </a>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/himankugogoi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="himanku" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/himankugogoi5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="himanku" height="50" width="45" /></a>
+<a href="https://linkedin.com/in/himankugogoi" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="himanku" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/himankugogoi5" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="himanku" height="50" width="45" /></a>
  <a href="https:/gmail" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail-himanku" height="25" width="35" /></a>
  <a href="https://www.instagram.com/himanku_/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" alt="himanku" height="35" width="40" /></a>
 </p>
