@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/himankugogoi" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="himanku" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/himankugogoi5" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="himanku" height="50" width="45" /></a>
- <a href="https:/gmail" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail-himanku" height="25" width="35" /></a>
+ <a href="mailto: himankugogoi5@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail-himanku" height="25" width="35" /></a>
  <a href="https://www.instagram.com/himanku_/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" alt="himanku" height="35" width="40" /></a>
 </p>
 
